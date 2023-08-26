@@ -9,6 +9,7 @@ kingbarlaos ສູດບາທີ່ດີທີ່ສຸດ ແລະ ຖືກ
 
 @stop('stylesheet')
 
+
 @section('content')
 
 <div class="container-fluid bg" style="margin: 0px">
